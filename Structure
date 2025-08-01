@@ -1,0 +1,6 @@
+/burn_estimation_app
+  |- app.py
+  |- requirements.txt
+  |- utils/
+         |- preprocessing.py
+         |- segmentation.py
