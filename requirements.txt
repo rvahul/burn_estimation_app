@@ -1,0 +1,9 @@
+streamlit
+pillow
+opencv-python
+rembg
+numpy
+scikit-image
+torch
+torchvision
+# Add any other model dependencies or custom repo if needed
